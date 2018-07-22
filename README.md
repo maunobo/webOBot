@@ -22,3 +22,11 @@ The stack consists of:
 ### Arduino platform 
 Using the Arduino platform which is cheap and easy to prototype and test out different circuits, with a variety of sensors and components for data acquisition and control. 
 The sensors used in this project were:  
+
+<img src="images/IODiagram.png" width="450" height="263">
+
+
+
+<img src="images/StackJohnyFirmata.png" width="450" height="253">
+
+<img src="images/StackComplete.png" width="355" height="355">
