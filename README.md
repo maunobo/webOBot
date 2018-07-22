@@ -1,9 +1,11 @@
 # webOBot
 ## Home Automation with Arduino & JS
 
+![](/johnyfive-react-mongo/logo.png)
+
 This is my thesis project for completing the Electronic Engineering studies in the Technological Educational Institute of Central Greece.
 
-The fundamental idea behind this project ws to built a system for home automation, monitoring and interaction with ones home environment remotely.
+The fundamental idea behind this project was to built a system for home automation, monitoring and interaction with ones home environment remotely.
 
 ### Abstract
 It is a fact that in recent years, automation and more specific applications in industry, at home, in the workplace, multiply and grow. Through the internet many automations provide the possibility for remote control, which is combined with the economic materials and thus constantly creating new web automation applications.
