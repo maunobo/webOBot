@@ -17,16 +17,32 @@ For the interaction of the user and the application, a browser is used, where or
 In this thesis, there is the analysis of the connections and the hardware structure, software and communication of each system to the other.
 
 
-The stack consists of: 
-
 ### Arduino platform 
 Using the Arduino platform which is cheap and easy to prototype and test out different circuits, with a variety of sensors and components for data acquisition and control. 
-The sensors used in this project were:  
+The sensors used in this project are:  
+- **Parallax Ping** sensor, for proximity sensing
+- **Movement sensor**, for movement sensing
+- **TMP 36** Temperature sensor, for reading the current temperature
+- **LDR** (Light Dependent Resistor), for sensing the current light temperature
+- **Servo** motor, for moving certain parts of the system remotely
+- **Button**, for feedback and to test performance
+- **RGB LED**, used as a feedback, to control lighting based on a ColorPicker
 
 <img src="images/IODiagram.png" width="450" height="263">
 
+### Server - Board
+**Firmata**
+A library that contains the firmware for many different components and sensors. Some customisation was required for several components to work.
 
+**Johnny-Five**
+A JavaScript library, mainly used for creating robots and autonomous vehicles based on the Arduino platform, allows for communication with Firmata.
+
+**NodeJS**
+The systems back-end consists of a Node running for controlling the Arduino and allows for remote control.
 
 <img src="images/StackJohnyFirmata.png" width="450" height="253">
+
+### Complete Stack
+
 
 <img src="images/StackComplete.png" width="355" height="355">
