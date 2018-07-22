@@ -30,8 +30,7 @@ The sensors used in this project are:
 - **RGB LED**, used as a feedback, to control lighting based on a ColorPicker
 
 <img src="images/IODiagram.png" width="450" height="263">
-
-######Diagram 1: Board diagram
+Diagram 1: Board diagram
 
 ### Server - Board
 The hardware and back-end of the system is built with the help of Firmata, Johnny-Five and NodeJS. The connection between the server and the circuit is done via serial bus, utilising the USB of the board (*Diagram 2*).
@@ -43,8 +42,7 @@ The hardware and back-end of the system is built with the help of Firmata, Johnn
 **NodeJS**: the systems back-end consists of a Node running for controlling the Arduino and allows for remote control.
 
 <img src="images/StackJohnyFirmata.png" width="450" height="253">
-
-######Diagram 2: Server - Board Diagram
+Diagram 2: Server - Board Diagram
 
 ### Complete Stack
 For the whole system to work, three main protocols are used, ReactJS for the Client, Node for the Server and MongoDB for storing and reading (*Diagram 3*).
@@ -58,5 +56,4 @@ For the whole system to work, three main protocols are used, ReactJS for the Cli
 **React**: React being the awesome framework it is, heleped with building a pleasant front-end.
 
 <img src="images/StackComplete.png" width="355" height="355">
-
-######Diagram 3: Stack Diagram
+Diagram 3: Stack Diagram
