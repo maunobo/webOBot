@@ -1,0 +1,26 @@
+{
+  "name": "johnyfive-react-mongo-server",
+  "description": "Arduino Automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "johnyfive",
+    "websocket",
+    "mongodb"
+  ],
+  "author": "Maurice Noel Bouniol (mnoelbouniol@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.9.49",
+    "mongoose": "^4.4.19",
+    "nodebots-hcsr04": "^0.4.1",
+    "nodebots-interchange": "^1.0.1",
+    "ws": "^1.1.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "johnyfive-react-mongo",
+  "version": "1.0.0",
+  "description": "Arduino Automation",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "johnyfive",
+    "websocket",
+    "mongodb"
+  ],
+  "author": "Maurice Noel Bouniol (mnoelbouniol@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.0.20",
+    "babel-eslint": "^6.0.4",
+    "babel-loader": "^6.0.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-preset-react": "^6.0.15",
+    "babel-preset-stage-0": "^6.0.15",
+    "css-loader": "^0.23.1",
+    "eslint": "^2.12.0",
+    "eslint-plugin-react": "^5.1.1",
+    "react-hot-loader": "^1.3.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "file-loader": "^0.8.5",
+    "rc-slider": "^3.7.0",
+    "react": "^15.1",
+    "react-bootstrap": "^0.29.4",
+    "react-color": "^2.1.0",
+    "react-date-range": "^0.2.4",
+    "react-dom": "^15.1.0",
+    "react-mdl": "^1.5",
+    "react-motion": "^0.4.4",
+    "react-player": "^0.7.2",
+    "react-tab-panel": "^2.2.0",
+    "react-vis": "^0.4.1"
+  }
+}
