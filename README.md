@@ -1,7 +1,7 @@
 # webOBot
-## Home Automation with Arduino & JS
+### Home Automation with Arduino & JS
 
-![logo](johnyfive-react-mongo/logo.png)
+<img src="johnyfive-react-mongo/logo.png" width="256" height="256">
 
 This is my thesis project for completing the Electronic Engineering studies in the Technological Educational Institute of Central Greece.
 
