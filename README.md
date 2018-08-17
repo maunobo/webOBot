@@ -60,7 +60,7 @@ Diagram 3: Stack Diagram
 
 ## App Screenshots
 
-<img src="images/WOBLogin.png" width="" height="">
+<img src="images/WOBLogin.png" width = width/2 height = height/2>
 i) Login View
 
 
