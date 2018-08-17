@@ -78,6 +78,8 @@ Functions - Controls View
 
 <img src="images/WOBPCB.png" width=50% height=50%>
 ![Optional Text](images/WOBPCB.png) width=50% height=50%
+<img src="images/WOBPCB.png" alt="My cool logo" width=50% height=50%/>
+# My cool project and above is the logo of it
 
 Special thanks are given to [ApoEco](https://github.com/apoeco "ApoEco GitHub"), React Guru! 
 For mentoring and helping through the whole project.
