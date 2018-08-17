@@ -57,3 +57,18 @@ For the whole system to work, three main protocols are used, ReactJS for the Cli
 
 <img src="images/StackComplete.png" width="355" height="355">
 Diagram 3: Stack Diagram
+
+## App Screenshots
+
+<img src="images/WOBLogin.png" width="355" height="355">
+i) Login View
+
+<img src="images/WOBCharts.png" width="355" height="355">
+ii) Charts View
+
+<img src="images/WOControls.png" width="355" height="355">
+iii) Functions - Controls View
+
+## Hardware
+
+<img src="images/WOBPCB.png" width="355" height="355">
