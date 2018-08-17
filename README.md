@@ -77,4 +77,5 @@ iii) Functions - Controls View
 <img src="images/WOBPCB.png" width=50% height=50%>
 
 
-Special thanks to be given to [ApoEco](https://github.com/apoeco "ApoEco GitHub"), for helping out and mentoring through the whole project.
+Special thanks are given to [ApoEco](https://github.com/apoeco "ApoEco GitHub"), React Guru! 
+For mentoring and helping through the whole project.
