@@ -62,14 +62,15 @@ Diagram 3: Stack Diagram
 
 <p><img src="images/WOBLogin.png" alt="loginView" width=50% height=50%/>
 Login View</p>
----
+_____
+
 <p><img src="images/WOBCharts.png" alt="chartsView" width=50% height=50%/>
 Charts View</p>
----
+_____
 
 <img src="images/WOBControls.png" alt="functionsView" width=50% height=50%/>
 Functions - Controls View
----
+_____
 
 ## Hardware
 
