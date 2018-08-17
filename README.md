@@ -75,3 +75,6 @@ iii) Functions - Controls View
 ## Hardware
 
 <img src="images/WOBPCB.png" width=50% height=50%>
+
+
+Special thanks to be given to [ApoEco](https://github.com/apoeco "ApoEco GitHub"), for helping out and mentoring through the whole project.
