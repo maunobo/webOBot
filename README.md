@@ -78,8 +78,9 @@ Diagram 3: Stack Diagram
 
 ## Hardware
 
+**Hardware board overview**
+
 <img src="images/WOBPCB.png" alt="My cool logo" width=50% height=50%/>
-Hardware board overview
 
 ## Thanks
 Special thanks are given to [ApoEco](https://github.com/apoeco "ApoEco GitHub"), React Guru! 
