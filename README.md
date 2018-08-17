@@ -60,24 +60,22 @@ Diagram 3: Stack Diagram
 
 ## App Screenshots
 
-<img src="images/WOBLogin.png" width=50% height=50%>
+<img src="images/WOBLogin.png" alt="loginView" width=50% height=50%/>
 Login View
 
 
 
-<img src="images/WOBCharts.png" width=50% height=50%>
+<img src="images/WOBCharts.png" alt="chartsView" width=50% height=50%/>
 Charts View
 
 
 
-<img src="images/WOBControls.png" width=50% height=50%>
+<img src="images/WOBControls.png" alt="functionsView" width=50% height=50%/>
 Functions - Controls View
 
 
 ## Hardware
 
-<img src="images/WOBPCB.png" width=50% height=50%>
-![Optional Text](images/WOBPCB.png) width=50% height=50%
 <img src="images/WOBPCB.png" alt="My cool logo" width=50% height=50%/>
 # My cool project and above is the logo of it
 
