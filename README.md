@@ -29,7 +29,7 @@ The sensors used in this project are:
 - **Button**, for feedback and to test performance
 - **RGB LED**, used as a feedback, to control lighting based on a ColorPicker
 
-<img src="images/IODiagram.png" width="450" height="263">
+<img src="images/IODiagram.png" width="450" height="263"/>
 Diagram 1: Board diagram
 
 ### Server - Board
@@ -41,7 +41,7 @@ The hardware and back-end of the system is built with the help of Firmata, Johnn
 
 **NodeJS**: the systems back-end consists of a Node running for controlling the Arduino and allows for remote control.
 
-<img src="images/StackJohnyFirmata.png" width="450" height="253">
+<img src="images/StackJohnyFirmata.png" width="450" height="253"/>
 Diagram 2: Server - Board Diagram
 
 ### Complete Stack
@@ -55,7 +55,7 @@ For the whole system to work, three main protocols are used, ReactJS for the Cli
 
 **React**: React being the awesome framework it is, heleped with building a pleasant front-end.
 
-<img src="images/StackComplete.png" width="355" height="355">
+<img src="images/StackComplete.png" width="355" height="355"/>
 Diagram 3: Stack Diagram
 
 ## App Screenshots
@@ -77,7 +77,7 @@ Functions - Controls View
 ## Hardware
 
 <img src="images/WOBPCB.png" alt="My cool logo" width=50% height=50%/>
-# My cool project and above is the logo of it
+**My cool project and above is the logo of it**
 
 Special thanks are given to [ApoEco](https://github.com/apoeco "ApoEco GitHub"), React Guru! 
 For mentoring and helping through the whole project.
