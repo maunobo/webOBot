@@ -60,15 +60,18 @@ Diagram 3: Stack Diagram
 
 ## App Screenshots
 
-<img src="images/WOBLogin.png" width="355" height="355">
+<img src="images/WOBLogin.png" width="" height="">
 i) Login View
 
-<img src="images/WOBCharts.png" width="355" height="355">
+
+<img src="images/WOBCharts.png" width="" height="">
 ii) Charts View
 
-<img src="images/WOControls.png" width="355" height="355">
+
+<img src="images/WOBControls.png" width="" height="">
 iii) Functions - Controls View
+
 
 ## Hardware
 
-<img src="images/WOBPCB.png" width="355" height="355">
+<img src="images/WOBPCB.png" width="" height="">
