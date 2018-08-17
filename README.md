@@ -1,7 +1,7 @@
 # webOBot
 ### Home Automation with Arduino & JS
 
-<img src="johnyfive-react-mongo/logo.png" width="256" height="256">
+<img src="johnyfive-react-mongo/logo.png" alt="webOBotLogo" width="256" height="256"/>
 
 This is my thesis project for completing the Electronic Engineering studies in the Technological Educational Institute of Central Greece.
 
@@ -29,7 +29,7 @@ The sensors used in this project are:
 - **Button**, for feedback and to test performance
 - **RGB LED**, used as a feedback, to control lighting based on a ColorPicker
 
-<img src="images/IODiagram.png" width="450" height="263"/>
+<img src="images/IODiagram.png" alt="boardDiagram" width="450" height="263"/>
 Diagram 1: Board diagram
 
 ### Server - Board
@@ -41,7 +41,7 @@ The hardware and back-end of the system is built with the help of Firmata, Johnn
 
 **NodeJS**: the systems back-end consists of a Node running for controlling the Arduino and allows for remote control.
 
-<img src="images/StackJohnyFirmata.png" width="450" height="253"/>
+<img src="images/StackJohnyFirmata.png" alt="serverBoardDiagram" width="450" height="253"/>
 Diagram 2: Server - Board Diagram
 
 ### Complete Stack
@@ -55,29 +55,25 @@ For the whole system to work, three main protocols are used, ReactJS for the Cli
 
 **React**: React being the awesome framework it is, heleped with building a pleasant front-end.
 
-<img src="images/StackComplete.png" width="355" height="355"/>
+<img src="images/StackComplete.png" alt="stackComplete" width="355" height="355"/>
 Diagram 3: Stack Diagram
 
 ## App Screenshots
 
-<img src="images/WOBLogin.png" alt="loginView" width=50% height=50%/>
 Login View
+<img src="images/WOBLogin.png" alt="loginView" width=50% height=50%/>
 
-
-
-<img src="images/WOBCharts.png" alt="chartsView" width=50% height=50%/>
 Charts View
+<img src="images/WOBCharts.png" alt="chartsView" width=50% height=50%/>
 
-
-
-<img src="images/WOBControls.png" alt="functionsView" width=50% height=50%/>
 Functions - Controls View
-
+<img src="images/WOBControls.png" alt="functionsView" width=50% height=50%/>
 
 ## Hardware
 
 <img src="images/WOBPCB.png" alt="My cool logo" width=50% height=50%/>
-**My cool project and above is the logo of it**
+Hardware board overview
 
+## Thanks
 Special thanks are given to [ApoEco](https://github.com/apoeco "ApoEco GitHub"), React Guru! 
 For mentoring and helping through the whole project.
